@@ -1,2 +1,2 @@
-# Soffee-shop
-Swagger
+# Coffee-shop
+Swagger and Yaml
